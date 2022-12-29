@@ -126,14 +126,14 @@ navbar-var-length: false
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#917350"
-navbar-text-col: "#213C21"
+navbar-text-col: "#3E5D37"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
-text-col: "#213C21"
+text-col: "#3E5D37"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#917350"
-footer-text-col: "#213C21"
+footer-text-col: "#3E5D37"
 footer-link-col: "#315835"
 footer-hover-col: "00A16B"
 
@@ -148,7 +148,7 @@ footer-hover-col: "00A16B"
 #mobile-theme-col: "#0085A1"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
-#site-css:
+#3E5D373E5D37asite-css:
 #  - "/assets/css/custom-styles.css"
 
 # If you have common JavaScript files that should be included in every page, list them here
